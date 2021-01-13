@@ -10,11 +10,11 @@
 
 ## 팀원들
 
-<table border="1" bordercolor="gray" align="center">
+<table align="center" border="1.5" bordercolor="gray">
     <tr>
         <td align="center"><a href="https://github.com/Ryeoryeon"><img src="https://avatars3.githubusercontent.com/u/50348995?s=500&u=7484588e133e5efa66f6cd14dac2417a90a4f598&v=4" width="180px;" alt=""/><br/><sub><b>이영현(개발/디자인)</b></sub></a></td>
         <td align="center"><a href="https://github.com/EomYoosang"><img src="https://avatars3.githubusercontent.com/u/53031768?s=500&u=7484588e133e5efa66f6cd14dac2417a90a4f598&v=4" width="180px;" alt=""/><br/><sub><b>엄유상(개발/디자인)</b></sub></a></td>
-	<td align="center"><a href="https://github.com/Future0630"><img src="https://avatars3.githubusercontent.com/u/52742709?s=500&u=7484588e133e5efa66f6cd14dac2417a90a4f598&v=4" width="180px;" alt=""/><br/><sub><b>유미래(기획/개발)</b></sub></a></td>
+	<td align="center"><a href="https://github.com/naraemirae9"><img src="https://avatars3.githubusercontent.com/u/52742709?s=500&u=7484588e133e5efa66f6cd14dac2417a90a4f598&v=4" width="180px;" alt=""/><br/><sub><b>유미래(기획/개발)</b></sub></a></td>
 	<td align="center"><a href="https://github.com/Cerisier823"><img src="https://avatars3.githubusercontent.com/u/50838972?s=500&u=7484588e133e5efa66f6cd14dac2417a90a4f598&v=4" width="180px;" alt=""/><br/><sub><b>김조은(기획/개발)</b></sub></a></td>
     </tr>
 </table>
