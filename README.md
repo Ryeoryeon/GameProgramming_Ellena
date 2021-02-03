@@ -1,3 +1,7 @@
+# 시연영상
+* 스포일러 주의
+<iframe width="720" height="405" src="https://youtu.be/embed" frameborder="0" allowfullscreen></iframe>
+
 # Ellena
 * 본 프로젝트는 2020학년 2학기 ‘컴퓨터게임프로그래밍’ 수업에서 10월~12월 동안 기획, 디자인 및 개발을 진행했던 프로젝트로, 팀 프로젝트가 끝난 후 프로젝트 정리 및 remind를 목적으로 만든 repository입니다.
 
