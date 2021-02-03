@@ -1,13 +1,14 @@
-# 시연영상
-* 스포일러 주의
-<iframe width="720" height="405" src="https://youtu.be/embed" frameborder="0" allowfullscreen></iframe>
-
 # Ellena
 * 본 프로젝트는 2020학년 2학기 ‘컴퓨터게임프로그래밍’ 수업에서 10월~12월 동안 기획, 디자인 및 개발을 진행했던 프로젝트로, 팀 프로젝트가 끝난 후 프로젝트 정리 및 remind를 목적으로 만든 repository입니다.
 
 ## 스토리
 * 전 세계에 치명적인 바이러스인 'FSV'의 유행으로 부모님을 잃고 지하 벙커 속 냉동 기계에서 100년 뒤에 깨어난 Ellena.
 * Ellena는 부모님이 숨겨놓은 단서를 되찾고 '진정한 행복'을 찾아 지하 벙커를 탈출할 수 있을까요?
+
+## 시연영상
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/w--TFNtMiCA/0.jpg)](https://www.youtube.com/watch?v=w--TFNtMiCA)
+
+* 이미지를 누르면 시연영상을 보실 수 있습니다. (스포일러에 주의해주세요)
 
 ## 진행 기간
 * 2020년 10~12월
